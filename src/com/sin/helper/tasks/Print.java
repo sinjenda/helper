@@ -1,0 +1,1 @@
+package com.sin.helper.tasks;import com.sin.helper.Task;import java.util.UUID;public class Print extends Task { public Print(UUID taskId, String name, String[] params) {super(taskId, name, params);}@Override public void run() throws Exception {System.out.println(params[0]);finish(params[0]);}@Override public double getProgress() {return 0;}}

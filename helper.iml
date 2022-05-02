@@ -2,7 +2,7 @@
 <module type="JAVA_MODULE" version="4">
   <component name="FacetManager">
     <facet type="Python" name="Python">
-      <configuration sdkName="" />
+      <configuration sdkName="Python 3.10 (helper)" />
     </facet>
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
@@ -46,6 +46,10 @@
     <orderEntry type="library" name="lwjgl-assimp-javadoc" level="project" />
     <orderEntry type="library" name="joml" level="project" />
     <orderEntry type="library" name="net.sourceforge.htmlunit" level="project" />
+    <orderEntry type="library" name="me.tongfei.progressbar" level="project" />
+    <orderEntry type="library" name="Python 3.10 (helper) interpreter library" level="application" />
+    <orderEntry type="library" name="github.yannrichet.JMathPlot" level="project" />
+    <orderEntry type="library" name="mysql-connector-java-8.0.23" level="application" />
   </component>
   <component name="PyDocumentationSettings">
     <option name="renderExternalDocumentation" value="true" />
